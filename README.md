@@ -145,4 +145,4 @@ login credentials.
 
 # • Lost/Misprint bus passes:
 
-– The administrator must validate the user’s complaint and then issue a replacement bus pass as necessary.
+– The administrator must validate the user’s complaint and then issue a replacement bus pass as necessary.
